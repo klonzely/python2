@@ -34,13 +34,9 @@ is_broken — состояние целостности (булево значе
 при ошибке выбрасывается TypeError или ValueError
 Пример:
 
-python
-def validate_name(name: str) -> None:
-    if not isinstance(name, str):
-        raise TypeError("Название должно быть строкой")
-    if not name.strip():
-        raise ValueError("Название не может быть пустым")
-Бизнес-логика
+
+Бизнес-логика<img width="528" height="128" alt="Снимок экрана 2026-03-29 в 13 45 05" src="https://github.com/user-attachments/assets/33e4b7db-bad6-420f-9933-d81e15495306" />
+
 
 Реализованы методы, отражающие поведение оружия:
 
