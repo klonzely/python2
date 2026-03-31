@@ -1,5 +1,5 @@
 # weapon.py
-from src.lab01.validate import validate_name, validate_damage, validate_rarity, validate_level
+from validate import validate_name, validate_damage, validate_rarity, validate_level
 
 class Weapon:
     """Класс оружия с уровнем, редкостью и состоянием целостности."""

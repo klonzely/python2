@@ -1,5 +1,5 @@
 # demo.py
-from .weapon import Weapon
+from weapon import Weapon
 
 def main():
     print("=" * 50)
