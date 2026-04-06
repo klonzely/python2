@@ -33,7 +33,6 @@ is_broken — состояние целостности (булево значе
 вся валидация вынесена в validate.py
 каждая функция отвечает за один атрибут (название, урон, редкость, уровень)
 при ошибке выбрасывается TypeError или ValueError
-<img width="667" height="135" alt="Снимок экрана 2026-03-31 в 10 02 52" src="https://github.com/user-attachments/assets/d922a161-5386-4a3e-b5f0-81389d8c1ddd" />
 
 Бизнес-логика
 
@@ -74,7 +73,7 @@ __eq__ — сравнение оружия по всем значимым хар
 Создаются несколько объектов оружия с корректными параметрами. При создании вызываются функции валидации.
 Демонстрирует: корректную инициализацию, работу конструктора.
 
-<img width="339" height="62" alt="1.png" src="https://raw.githubusercontent.com/klonzely/python2/main/images/lab01/1.png" />
+<img width="339" height="62" alt="1.png" src="https://github.com/klonzely/python2/blob/main/images/lab01/1.png"/>
 
 Сценарий 2 — Вывод (__str__ и __repr__)
 
