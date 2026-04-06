@@ -1,2 +1,2 @@
-- [Лабораторная работа №1 (класс Weapon)](src/lab01/README.md) — реализация класса оружия.
-- [Лабораторная работа №2 (коллекция WeaponCollection)](src/lab02/README.md) — контейнер для хранения объектов Weapon.
+- [Лабораторная работа №1 (класс Weapon)](src/lab01/README.md)
+- [Лабораторная работа №2 (коллекция WeaponCollection)](src/lab02/README.md)
