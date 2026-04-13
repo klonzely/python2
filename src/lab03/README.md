@@ -35,7 +35,7 @@
 
 ### 1. Создание объектов
 
-```python
+
 sword = MeleeWeapon("Экскалибур", 45, 100, "epic", reach=1.2, material="сталь")
 bow = RangedWeapon("Длинный лук", 30, 100, "rare", range=150, ammo=20)
 
