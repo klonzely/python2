@@ -1,3 +1,4 @@
 - [Лабораторная работа №1 (класс Weapon)](src/lab01/README.md)
 - [Лабораторная работа №2 (коллекция WeaponCollection)](src/lab02/README.md)
-- [Лаборатоорная работа №3](src/lab03/README.md)
+- [Лабораторная работа №3](src/lab03/README.md)
+- [Лабораторная работа №4](src/lab04/README.md)
